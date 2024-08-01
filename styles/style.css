@@ -299,7 +299,7 @@ ol {
 }
 
 .search-form__label:focus-within {
-  outline: 1px solid white; /* Цвет обводки для всего контейнера */
+  outline: 1px solid white; 
   outline-offset: 1px;
 }
 
