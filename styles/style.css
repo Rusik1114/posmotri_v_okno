@@ -100,7 +100,7 @@ ol {
   margin: 0px 2px 19px 7px;
   font-size: 75px;
   line-height: 70px;
-  font-family: "Oswald", Arial;
+  font-family: "Oswald", sans-serif;
   text-transform: uppercase;
 }
 
@@ -142,7 +142,7 @@ ol {
 }
 
 .content__accent {
-  font-family: "Oswald", Arial;
+  font-family: "Oswald", sans-serif;
   text-transform: uppercase;
   color: #545050;
 }
@@ -170,7 +170,7 @@ ol {
 }
 
 .content__video-card-title {
-  font-family: "Oswald", Arial;
+  font-family: "Oswald", sans-serif;
   font-size: 30px;
   font-weight: 700;
   color: white;
